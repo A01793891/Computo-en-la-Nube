@@ -5,8 +5,8 @@ from setuptools import find_packages, setup
 
 setup(name='searchconsole',
       description='A wrapper for the Google Search Console API.',
-      author='Josh Carty',
-      author_email='carty.josh@gmail.com',
+      author='Andrei Garcia',
+      author_email='A01793891@tec.mx',
       version='0.0.3',
       license='MIT',
       packages=find_packages(),
